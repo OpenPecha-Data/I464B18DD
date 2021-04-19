@@ -3,156 +3,134 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   e21b76d7f9974a7b8824d10fc8e320a1:
-    page_index: 1a
-    page_info: null
-    reference: I4CZ2945910001
+    imgnum: 1
+    reference: I4CZ2945910001.tif
     span:
       start: 0
       end: 745
   ac47220630674d81b740419b2a9a8943:
-    page_index: 2a
-    page_info: null
-    reference: I4CZ2945910003
+    imgnum: 3
+    reference: I4CZ2945910003.jpg
     span:
       start: 750
       end: 823
   fb75bd8cdbb844dda578f1b7ab1df9ae:
-    page_index: 3a
-    page_info: null
-    reference: I4CZ2945910005
+    imgnum: 5
+    reference: I4CZ2945910005.tif
     span:
       start: 828
       end: 953
   9404ce4855674bf4a5d0d370563b7d19:
-    page_index: 3b
-    page_info: null
-    reference: I4CZ2945910006
+    imgnum: 6
+    reference: I4CZ2945910006.tif
     span:
       start: 958
       end: 1892
   0ae9c09e644347e4abd39c1aff73a219:
-    page_index: 4a
-    page_info: null
-    reference: I4CZ2945910007
+    imgnum: 7
+    reference: I4CZ2945910007.tif
     span:
       start: 1897
       end: 2873
   9ed0b8c6bbb24248b120cfa24dc328ac:
-    page_index: 4b
-    page_info: null
-    reference: I4CZ2945910008
+    imgnum: 8
+    reference: I4CZ2945910008.tif
     span:
       start: 2878
       end: 3831
   7ad2caf8211d470684e1e7938970af7c:
-    page_index: 5a
-    page_info: null
-    reference: I4CZ2945910009
+    imgnum: 9
+    reference: I4CZ2945910009.tif
     span:
       start: 3836
       end: 4771
   a332ff09fc24487ea2048dbaeb81801f:
-    page_index: 5b
-    page_info: null
-    reference: I4CZ2945910010
+    imgnum: 10
+    reference: I4CZ2945910010.tif
     span:
       start: 4776
       end: 5719
   b11a3b10a563420bbcddcbdfc40ed85e:
-    page_index: 6a
-    page_info: null
-    reference: I4CZ2945910011
+    imgnum: 11
+    reference: I4CZ2945910011.tif
     span:
       start: 5724
       end: 6656
   2b4310509217486c908b5891df4948f0:
-    page_index: 6b
-    page_info: null
-    reference: I4CZ2945910012
+    imgnum: 12
+    reference: I4CZ2945910012.tif
     span:
       start: 6661
       end: 7628
   f0ff0a95234f43fba9a26b0f6fc51f22:
-    page_index: 7a
-    page_info: null
-    reference: I4CZ2945910013
+    imgnum: 13
+    reference: I4CZ2945910013.tif
     span:
       start: 7633
       end: 7878
   d501f4c3c0b54a038dd5cb65d689156d:
-    page_index: 7b
-    page_info: null
-    reference: I4CZ2945910014
+    imgnum: 14
+    reference: I4CZ2945910014.tif
     span:
       start: 7883
       end: 8831
   94eb17413a224f819ccc72eee9297b73:
-    page_index: 8a
-    page_info: null
-    reference: I4CZ2945910015
+    imgnum: 15
+    reference: I4CZ2945910015.tif
     span:
       start: 8836
       end: 9800
   12b56d97dfc846f99bb4b4ff34c30472:
-    page_index: 8b
-    page_info: null
-    reference: I4CZ2945910016
+    imgnum: 16
+    reference: I4CZ2945910016.tif
     span:
       start: 9805
       end: 10705
   2bee5e49b663490ba79a6e61f2e1d735:
-    page_index: 9a
-    page_info: null
-    reference: I4CZ2945910017
+    imgnum: 17
+    reference: I4CZ2945910017.tif
     span:
       start: 10710
       end: 11659
   4e5ed6f12c6f43808de26ea9a7f36f50:
-    page_index: 9b
-    page_info: null
-    reference: I4CZ2945910018
+    imgnum: 18
+    reference: I4CZ2945910018.tif
     span:
       start: 11664
       end: 12641
   cd30adf26afa4a4198e6a2dfdb486bde:
-    page_index: 10a
-    page_info: null
-    reference: I4CZ2945910019
+    imgnum: 19
+    reference: I4CZ2945910019.tif
     span:
       start: 12646
       end: 13260
   cb8cc9d9bcc643b78fabdd752c479fcc:
-    page_index: 10b
-    page_info: null
-    reference: I4CZ2945910020
+    imgnum: 20
+    reference: I4CZ2945910020.tif
     span:
       start: 13265
       end: 14156
   34ec7f90a4e243809cbe6cc9baccaf56:
-    page_index: 11a
-    page_info: null
-    reference: I4CZ2945910021
+    imgnum: 21
+    reference: I4CZ2945910021.tif
     span:
       start: 14161
       end: 15086
   894c596b795d49fdb9f53d4ae005fa15:
-    page_index: 11b
-    page_info: null
-    reference: I4CZ2945910022
+    imgnum: 22
+    reference: I4CZ2945910022.tif
     span:
       start: 15091
       end: 16082
   a1a5bd7990014a5e893ade80000d1529:
-    page_index: 12a
-    page_info: null
-    reference: I4CZ2945910023
+    imgnum: 23
+    reference: I4CZ2945910023.tif
     span:
       start: 16087
       end: 16088
   481f56249f0a44e5ac2621b551b2f5a4:
-    page_index: 12b
-    page_info: null
-    reference: I4CZ2945910024
+    imgnum: 24
+    reference: I4CZ2945910024.jpg
     span:
       start: 16093
       end: 16129
